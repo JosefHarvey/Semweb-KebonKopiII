@@ -22,6 +22,7 @@ Aplikasi ini memungkinkan pengguna untuk:
 ---
 ## Link Deploy Website
 Applikasi sudah full di deploy pada link dibawah sehingga tidak perlu melakukan instalasi apapun
+
 https://aksara-kebon-kopi-2.streamlit.app/
 
 ## ⚙️ Instalasi
