@@ -20,6 +20,8 @@ Aplikasi ini memungkinkan pengguna untuk:
 - Mencari arti kata berbahasa Indonesia dari dataset berbasis RDF
 
 ---
+## Link Deploy Website
+https://aksara-kebon-kopi-2.streamlit.app/
 
 ## ⚙️ Instalasi
 
@@ -80,5 +82,6 @@ Aplikasi ini memungkinkan pengguna untuk:
 ![13](https://github.com/user-attachments/assets/1379a993-b8f1-409d-85af-be2048d4acdd)
 ![14](https://github.com/user-attachments/assets/0dd64a36-df7d-4e6e-9cf9-7a27e6b5ae65)
 ![15](https://github.com/user-attachments/assets/d8b0b2bc-337b-4782-9a21-90f16766f0f8)
+
 
 
