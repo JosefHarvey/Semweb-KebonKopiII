@@ -1,0 +1,2004 @@
+@prefix : <http://contoh.org/prasasti#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+
+
+:Baris_B001 a :AksaraKawi ;
+    :aksaraValue "ꦎꦩ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B001 ;
+    :hasArti :Arti_B001 .
+
+:Latin_B001 :valueLatin "Om"^^xsd:string .
+:Arti_B001 :valueArti "Wighnam"^^xsd:string .
+
+:Baris_B002 a :AksaraKawi ;
+    :aksaraValue "ꦄꦱ꧀ꦠꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B002 ;
+    :hasArti :Arti_B002 .
+
+:Latin_B002 :valueLatin "astu"^^xsd:string .
+:Arti_B002 :valueArti "semoga"^^xsd:string .
+
+:Baris_B003 a :AksaraKawi ;
+    :aksaraValue "ꦤꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B003 ;
+    :hasArti :Arti_B003 .
+
+:Latin_B003 :valueLatin "nama"^^xsd:string .
+:Arti_B003 :valueArti "nama"^^xsd:string .
+
+:Baris_B004 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦢ꧀ꦝꦩ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B004 ;
+    :hasArti :Arti_B004 .
+
+:Latin_B004 :valueLatin "siddham"^^xsd:string .
+:Arti_B004 :valueArti "berhasil"^^xsd:string .
+
+:Baris_B005 a :AksaraKawi ;
+    :aksaraValue "ꦥꦔꦏ꧀ꦱꦩꦤꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B005 ;
+    :hasArti :Arti_B005 .
+
+:Latin_B005 :valueLatin "Pangaksamaning"^^xsd:string .
+:Arti_B005 :valueArti "Pengampunan"^^xsd:string .
+
+:Baris_B006 a :AksaraKawi ;
+    :aksaraValue "ꦲꦸꦭꦸꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B006 ;
+    :hasArti :Arti_B006 .
+
+:Latin_B006 :valueLatin "hulun"^^xsd:string .
+:Arti_B006 :valueArti "hamba"^^xsd:string .
+
+:Baris_B007 a :AksaraKawi ;
+    :aksaraValue "ꦫꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B007 ;
+    :hasArti :Arti_B007 .
+
+:Latin_B007 :valueLatin "ri"^^xsd:string .
+:Arti_B007 :valueArti "pada"^^xsd:string .
+
+:Baris_B008 a :AksaraKawi ;
+    :aksaraValue "ꦧ꧀ꦲꦠꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B008 ;
+    :hasArti :Arti_B008 .
+
+:Latin_B008 :valueLatin "Bhatara"^^xsd:string .
+:Arti_B008 :valueArti "Dewa"^^xsd:string .
+
+:Baris_B009 a :AksaraKawi ;
+    :aksaraValue "ꦲ꧀ꦪꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B009 ;
+    :hasArti :Arti_B009 .
+
+:Latin_B009 :valueLatin "Hyang"^^xsd:string .
+:Arti_B009 :valueArti "Tuhan"^^xsd:string .
+
+:Baris_B010 a :AksaraKawi ;
+    :aksaraValue "ꦩꦩꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B010 ;
+    :hasArti :Arti_B010 .
+
+:Latin_B010 :valueLatin "Mami"^^xsd:string .
+:Arti_B010 :valueArti "saya"^^xsd:string .
+
+:Baris_B011 a :AksaraKawi ;
+    :aksaraValue "ꦱꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B011 ;
+    :hasArti :Arti_B011 .
+
+:Latin_B011 :valueLatin "sang"^^xsd:string .
+:Arti_B011 :valueArti "yang"^^xsd:string .
+
+:Baris_B012 a :AksaraKawi ;
+    :aksaraValue "ꦒꦶꦤ꧀ꦭꦫꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B012 ;
+    :hasArti :Arti_B012 .
+
+:Latin_B012 :valueLatin "ginlaring"^^xsd:string .
+:Arti_B012 :valueArti "dilahirkan"^^xsd:string .
+
+:Baris_B013 a :AksaraKawi ;
+    :aksaraValue "ꦱꦫꦶꦤꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B013 ;
+    :hasArti :Arti_B013 .
+
+:Latin_B013 :valueLatin "sarining"^^xsd:string .
+:Arti_B013 :valueArti "inti"^^xsd:string .
+
+:Baris_B014 a :AksaraKawi ;
+    :aksaraValue "ꦎꦔ꧀ꦏꦫꦠ꧀ꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B014 ;
+    :hasArti :Arti_B014 .
+
+:Latin_B014 :valueLatin "ongkaratna"^^xsd:string .
+:Arti_B014 :valueArti "Ongkara Ratna"^^xsd:string .
+
+:Baris_B015 a :AksaraKawi ;
+    :aksaraValue "ꦩꦤ꧀ꦠ꧀ꦫꦩ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B015 ;
+    :hasArti :Arti_B015 .
+
+:Latin_B015 :valueLatin "mantram"^^xsd:string .
+:Arti_B015 :valueArti "mantra"^^xsd:string .
+
+:Baris_B016 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B016 ;
+    :hasArti :Arti_B016 .
+
+:Latin_B016 :valueLatin "sira"^^xsd:string .
+:Arti_B016 :valueArti "beliau"^^xsd:string .
+
+:Baris_B017 a :AksaraKawi ;
+    :aksaraValue "ꦄꦤꦸꦒ꧀ꦫꦲ"^^xsd:string ;
+    :hasTransliterasi :Latin_B017 ;
+    :hasArti :Arti_B017 .
+
+:Latin_B017 :valueLatin "anugraha"^^xsd:string .
+:Arti_B017 :valueArti "anugerah"^^xsd:string .
+
+:Baris_B018 a :AksaraKawi ;
+    :aksaraValue "ꦫꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B018 ;
+    :hasArti :Arti_B018 .
+
+:Latin_B018 :valueLatin "ring"^^xsd:string .
+:Arti_B018 :valueArti "pada"^^xsd:string .
+
+:Baris_B019 a :AksaraKawi ;
+    :aksaraValue "ꦲꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B019 ;
+    :hasArti :Arti_B019 .
+
+:Latin_B019 :valueLatin "hana"^^xsd:string .
+:Arti_B019 :valueArti "ada"^^xsd:string .
+
+:Baris_B020 a :AksaraKawi ;
+    :aksaraValue "ꦮꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B020 ;
+    :hasArti :Arti_B020 .
+
+:Latin_B020 :valueLatin "waka"^^xsd:string .
+:Arti_B020 :valueArti "kisah"^^xsd:string .
+
+:Baris_B021 a :AksaraKawi ;
+    :aksaraValue "ꦥꦸꦫ꧀ꦮ꧀ꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B021 ;
+    :hasArti :Arti_B021 .
+
+:Latin_B021 :valueLatin "purwwa"^^xsd:string .
+:Arti_B021 :valueArti "lampau"^^xsd:string .
+
+:Baris_B022 a :AksaraKawi ;
+    :aksaraValue "ꦤꦶꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B022 ;
+    :hasArti :Arti_B022 .
+
+:Latin_B022 :valueLatin "nira"^^xsd:string .
+:Arti_B022 :valueArti "beliau"^^xsd:string .
+
+:Baris_B023 a :AksaraKawi ;
+    :aksaraValue "ꦱꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B023 ;
+    :hasArti :Arti_B023 .
+
+:Latin_B023 :valueLatin "sang"^^xsd:string .
+:Arti_B023 :valueArti "yang"^^xsd:string .
+
+:Baris_B024 a :AksaraKawi ;
+    :aksaraValue "ꦮꦸꦱ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B024 ;
+    :hasArti :Arti_B024 .
+
+:Latin_B024 :valueLatin "wus"^^xsd:string .
+:Arti_B024 :valueArti "sudah"^^xsd:string .
+
+:Baris_B025 a :AksaraKawi ;
+    :aksaraValue "ꦭꦺꦥꦱ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B025 ;
+    :hasArti :Arti_B025 .
+
+:Latin_B025 :valueLatin "lepas"^^xsd:string .
+:Arti_B025 :valueArti "lepas"^^xsd:string .
+
+:Baris_B026 a :AksaraKawi ;
+    :aksaraValue "ꦭꦸꦥꦸꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B026 ;
+    :hasArti :Arti_B026 .
+
+:Latin_B026 :valueLatin "luputa"^^xsd:string .
+:Arti_B026 :valueArti "terhindar"^^xsd:string .
+
+:Baris_B027 a :AksaraKawi ;
+    :aksaraValue "ꦩꦩꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B027 ;
+    :hasArti :Arti_B027 .
+
+:Latin_B027 :valueLatin "mami"^^xsd:string .
+:Arti_B027 :valueArti "saya"^^xsd:string .
+
+:Baris_B028 a :AksaraKawi ;
+    :aksaraValue "ꦫꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B028 ;
+    :hasArti :Arti_B028 .
+
+:Latin_B028 :valueLatin "ring"^^xsd:string .
+:Arti_B028 :valueArti "dari"^^xsd:string .
+
+:Baris_B029 a :AksaraKawi ;
+    :aksaraValue "ꦠꦸꦭꦲ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B029 ;
+    :hasArti :Arti_B029 .
+
+:Latin_B029 :valueLatin "tulah"^^xsd:string .
+:Arti_B029 :valueArti "cacat"^^xsd:string .
+
+:Baris_B030 a :AksaraKawi ;
+    :aksaraValue "ꦥꦩꦶꦝꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B030 ;
+    :hasArti :Arti_B030 .
+
+:Latin_B030 :valueLatin "pamidhi"^^xsd:string .
+:Arti_B030 :valueArti "dosa"^^xsd:string .
+
+:Baris_B031 a :AksaraKawi ;
+    :aksaraValue "ꦩ꧀ꦮꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B031 ;
+    :hasArti :Arti_B031 .
+
+:Latin_B031 :valueLatin "mwang"^^xsd:string .
+:Arti_B031 :valueArti "dan"^^xsd:string .
+
+:Baris_B032 a :AksaraKawi ;
+    :aksaraValue "ꦱꦮꦶꦒ꧀ꦫꦲꦤꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B032 ;
+    :hasArti :Arti_B032 .
+
+:Latin_B032 :valueLatin "sawigrahaning"^^xsd:string .
+:Arti_B032 :valueArti "kesalahan"^^xsd:string .
+
+:Baris_B033 a :AksaraKawi ;
+    :aksaraValue "ꦩꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B033 ;
+    :hasArti :Arti_B033 .
+
+:Latin_B033 :valueLatin "mala"^^xsd:string .
+:Arti_B033 :valueArti "kotor"^^xsd:string .
+
+:Baris_B034 a :AksaraKawi ;
+    :aksaraValue "ꦥꦥ"^^xsd:string ;
+    :hasTransliterasi :Latin_B034 ;
+    :hasArti :Arti_B034 .
+
+:Latin_B034 :valueLatin "papa"^^xsd:string .
+:Arti_B034 :valueArti "dosa"^^xsd:string .
+
+:Baris_B035 a :AksaraKawi ;
+    :aksaraValue "ꦥꦠꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B035 ;
+    :hasArti :Arti_B035 .
+
+:Latin_B035 :valueLatin "pataka"^^xsd:string .
+:Arti_B035 :valueArti "petaka"^^xsd:string .
+
+:Baris_B036 a :AksaraKawi ;
+    :aksaraValue "ꦠꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B036 ;
+    :hasArti :Arti_B036 .
+
+:Latin_B036 :valueLatin "tan"^^xsd:string .
+:Arti_B036 :valueArti "tidak"^^xsd:string .
+
+:Baris_B037 a :AksaraKawi ;
+    :aksaraValue "ꦏꦠꦩꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B037 ;
+    :hasArti :Arti_B037 .
+
+:Latin_B037 :valueLatin "katamana"^^xsd:string .
+:Arti_B037 :valueArti "terkena"^^xsd:string .
+
+:Baris_B038 a :AksaraKawi ;
+    :aksaraValue "ꦫꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B038 ;
+    :hasArti :Arti_B038 .
+
+:Latin_B038 :valueLatin "ring"^^xsd:string .
+:Arti_B038 :valueArti "pada"^^xsd:string .
+
+:Baris_B039 a :AksaraKawi ;
+    :aksaraValue "ꦈꦥꦢ꧀ꦫꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B039 ;
+    :hasArti :Arti_B039 .
+
+:Latin_B039 :valueLatin "upadrawa"^^xsd:string .
+:Arti_B039 :valueArti "gangguan"^^xsd:string .
+
+:Baris_B040 a :AksaraKawi ;
+    :aksaraValue "ꦢꦺ"^^xsd:string ;
+    :hasTransliterasi :Latin_B040 ;
+    :hasArti :Arti_B040 .
+
+:Latin_B040 :valueLatin "de"^^xsd:string .
+:Arti_B040 :valueArti "tuan"^^xsd:string .
+
+:Baris_B041 a :AksaraKawi ;
+    :aksaraValue "ꦧ꧀ꦲꦠꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B041 ;
+    :hasArti :Arti_B041 .
+
+:Latin_B041 :valueLatin "Bhatara"^^xsd:string .
+:Arti_B041 :valueArti "Dewa"^^xsd:string .
+
+:Baris_B042 a :AksaraKawi ;
+    :aksaraValue "ꦲ꧀ꦪꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B042 ;
+    :hasArti :Arti_B042 .
+
+:Latin_B042 :valueLatin "Hyang"^^xsd:string .
+:Arti_B042 :valueArti "Tuhan"^^xsd:string .
+
+:Baris_B043 a :AksaraKawi ;
+    :aksaraValue "ꦩꦩꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B043 ;
+    :hasArti :Arti_B043 .
+
+:Latin_B043 :valueLatin "Mami"^^xsd:string .
+:Arti_B043 :valueArti "saya"^^xsd:string .
+
+:Baris_B044 a :AksaraKawi ;
+    :aksaraValue "ꦮꦱ꧀ꦠꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B044 ;
+    :hasArti :Arti_B044 .
+
+:Latin_B044 :valueLatin "wastu"^^xsd:string .
+:Arti_B044 :valueArti "semoga"^^xsd:string .
+
+:Baris_B045 a :AksaraKawi ;
+    :aksaraValue "ꦥꦫꦶꦥꦸꦫ꧀ꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B045 ;
+    :hasArti :Arti_B045 .
+
+:Latin_B045 :valueLatin "paripurna"^^xsd:string .
+:Arti_B045 :valueArti "sampurna"^^xsd:string .
+
+:Baris_B046 a :AksaraKawi ;
+    :aksaraValue "ꦄꦤꦺꦩꦸꦄꦏꦺꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B046 ;
+    :hasArti :Arti_B046 .
+
+:Latin_B046 :valueLatin "anemuaken"^^xsd:string .
+:Arti_B046 :valueArti "mendapatkan"^^xsd:string .
+
+:Baris_B047 a :AksaraKawi ;
+    :aksaraValue "ꦲꦪꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B047 ;
+    :hasArti :Arti_B047 .
+
+:Latin_B047 :valueLatin "hayu"^^xsd:string .
+:Arti_B047 :valueArti "kebaikan"^^xsd:string .
+
+:Baris_B048 a :AksaraKawi ;
+    :aksaraValue "ꦝꦶꦫ꧀ꦒ꧀ꦲ"^^xsd:string ;
+    :hasTransliterasi :Latin_B048 ;
+    :hasArti :Arti_B048 .
+
+:Latin_B048 :valueLatin "dhirgha"^^xsd:string .
+:Arti_B048 :valueArti "panjang"^^xsd:string .
+
+:Baris_B049 a :AksaraKawi ;
+    :aksaraValue "ꦪꦸꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B049 ;
+    :hasArti :Arti_B049 .
+
+:Latin_B049 :valueLatin "yusa"^^xsd:string .
+:Arti_B049 :valueArti "umur"^^xsd:string .
+
+:Baris_B050 a :AksaraKawi ;
+    :aksaraValue "ꦠ꧀ꦏꦺꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B050 ;
+    :hasArti :Arti_B050 .
+
+:Latin_B050 :valueLatin "tkeng"^^xsd:string .
+:Arti_B050 :valueArti "bagi"^^xsd:string .
+
+:Baris_B051 a :AksaraKawi ;
+    :aksaraValue "ꦏꦸꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B051 ;
+    :hasArti :Arti_B051 .
+
+:Latin_B051 :valueLatin "kula"^^xsd:string .
+:Arti_B051 :valueArti "saya"^^xsd:string .
+
+:Baris_B052 a :AksaraKawi ;
+    :aksaraValue "ꦒꦼꦠ꧀ꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B052 ;
+    :hasArti :Arti_B052 .
+
+:Latin_B052 :valueLatin "gotra"^^xsd:string .
+:Arti_B052 :valueArti "keluarga"^^xsd:string .
+
+:Baris_B053 a :AksaraKawi ;
+    :aksaraValue "ꦱꦤ꧀ꦠꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B053 ;
+    :hasArti :Arti_B053 .
+
+:Latin_B053 :valueLatin "santana"^^xsd:string .
+:Arti_B053 :valueArti "keterunan"^^xsd:string .
+
+:Baris_B054 a :AksaraKawi ;
+    :aksaraValue "ꦤꦩꦼꦱ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B054 ;
+    :hasArti :Arti_B054 .
+
+:Latin_B054 :valueLatin "namos"^^xsd:string .
+:Arti_B054 :valueArti "hormat"^^xsd:string .
+
+:Baris_B055 a :AksaraKawi ;
+    :aksaraValue "ꦗꦒꦢ꧀ꦝꦶꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B055 ;
+    :hasArti :Arti_B055 .
+
+:Latin_B055 :valueLatin "jagaddhita"^^xsd:string .
+:Arti_B055 :valueArti "kesejahteraan dunia"^^xsd:string .
+
+:Baris_B056 a :AksaraKawi ;
+    :aksaraValue "ꦪ"^^xsd:string ;
+    :hasTransliterasi :Latin_B056 ;
+    :hasArti :Arti_B056 .
+
+:Latin_B056 :valueLatin "ya"^^xsd:string .
+:Arti_B056 :valueArti "itulah"^^xsd:string .
+
+:Baris_B057 a :AksaraKawi ;
+    :aksaraValue "ꦫꦶꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B057 ;
+    :hasArti :Arti_B057 .
+
+:Latin_B057 :valueLatin "Ring"^^xsd:string .
+:Arti_B057 :valueArti "pada"^^xsd:string .
+
+:Baris_B058 a :AksaraKawi ;
+    :aksaraValue "ꦥꦸꦫ꧀ꦮ꧀ꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B058 ;
+    :hasArti :Arti_B058 .
+
+:Latin_B058 :valueLatin "purwwa"^^xsd:string .
+:Arti_B058 :valueArti "kala"^^xsd:string .
+
+:Baris_B059 a :AksaraKawi ;
+    :aksaraValue "ꦏꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B059 ;
+    :hasArti :Arti_B059 .
+
+:Latin_B059 :valueLatin "kala"^^xsd:string .
+:Arti_B059 :valueArti "waktu"^^xsd:string .
+
+:Baris_B060 a :AksaraKawi ;
+    :aksaraValue "ꦲꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B060 ;
+    :hasArti :Arti_B060 .
+
+:Latin_B060 :valueLatin "hana"^^xsd:string .
+:Arti_B060 :valueArti "ada"^^xsd:string .
+
+:Baris_B061 a :AksaraKawi ;
+    :aksaraValue "ꦩꦪ"^^xsd:string ;
+    :hasTransliterasi :Latin_B061 ;
+    :hasArti :Arti_B061 .
+
+:Latin_B061 :valueLatin "maya"^^xsd:string .
+:Arti_B061 :valueArti "ilusi"^^xsd:string .
+
+:Baris_B062 a :AksaraKawi ;
+    :aksaraValue "ꦱꦏ꧀ꦠꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B062 ;
+    :hasArti :Arti_B062 .
+
+:Latin_B062 :valueLatin "sakti"^^xsd:string .
+:Arti_B062 :valueArti "kekuatan"^^xsd:string .
+
+:Baris_B063 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B063 ;
+    :hasArti :Arti_B063 .
+
+:Latin_B063 :valueLatin "kin"^^xsd:string .
+:Arti_B063 :valueArti "pernah"^^xsd:string .
+
+:Baris_B064 a :AksaraKawi ;
+    :aksaraValue "ꦥꦶꦱ꧀ꦠꦺꦴ"^^xsd:string ;
+    :hasTransliterasi :Latin_B064 ;
+    :hasArti :Arti_B064 .
+
+:Latin_B064 :valueLatin "pisté"^^xsd:string .
+:Arti_B064 :valueArti "percaya"^^xsd:string .
+
+:Baris_B065 a :AksaraKawi ;
+    :aksaraValue "ꦩꦸꦤ꧀ꦝꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B065 ;
+    :hasArti :Arti_B065 .
+
+:Latin_B065 :valueLatin "mundi"^^xsd:string .
+:Arti_B065 :valueArti "bumi"^^xsd:string .
+
+:Baris_B066 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B066 ;
+    :hasArti :Arti_B066 .
+
+:Latin_B066 :valueLatin "én"^^xsd:string .
+:Arti_B066 :valueArti "kamu"^^xsd:string .
+
+:Baris_B067 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴ"^^xsd:string ;
+    :hasTransliterasi :Latin_B067 ;
+    :hasArti :Arti_B067 .
+
+:Latin_B067 :valueLatin "é"^^xsd:string .
+:Arti_B067 :valueArti "dia"^^xsd:string .
+
+:Baris_B068 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B068 ;
+    :hasArti :Arti_B068 .
+
+:Latin_B068 :valueLatin "éng"^^xsd:string .
+:Arti_B068 :valueArti "mereka"^^xsd:string .
+
+:Baris_B069 a :AksaraKawi ;
+    :aksaraValue "ꦤꦺꦴꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B069 ;
+    :hasArti :Arti_B069 .
+
+:Latin_B069 :valueLatin "neng"^^xsd:string .
+:Arti_B069 :valueArti "ke"^^xsd:string .
+
+:Baris_B070 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦤ꧀ꦢꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B070 ;
+    :hasArti :Arti_B070 .
+
+:Latin_B070 :valueLatin "éndi"^^xsd:string .
+:Arti_B070 :valueArti "mana"^^xsd:string .
+
+:Baris_B071 a :AksaraKawi ;
+    :aksaraValue "ꦕꦺꦴꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B071 ;
+    :hasArti :Arti_B071 .
+
+:Latin_B071 :valueLatin "cora"^^xsd:string .
+:Arti_B071 :valueArti "bentuk"^^xsd:string .
+
+:Baris_B072 a :AksaraKawi ;
+    :aksaraValue "ꦒꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B072 ;
+    :hasArti :Arti_B072 .
+
+:Latin_B072 :valueLatin "guna"^^xsd:string .
+:Arti_B072 :valueArti "manfaat"^^xsd:string .
+
+:Baris_B073 a :AksaraKawi ;
+    :aksaraValue "ꦧꦺꦴꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B073 ;
+    :hasArti :Arti_B073 .
+
+:Latin_B073 :valueLatin "bota"^^xsd:string .
+:Arti_B073 :valueArti "besar"^^xsd:string .
+
+:Baris_B074 a :AksaraKawi ;
+    :aksaraValue "ꦱꦭꦏ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B074 ;
+    :hasArti :Arti_B074 .
+
+:Latin_B074 :valueLatin "salak"^^xsd:string .
+:Arti_B074 :valueArti "kulit"^^xsd:string .
+
+:Baris_B075 a :AksaraKawi ;
+    :aksaraValue "ꦥꦸꦠ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B075 ;
+    :hasArti :Arti_B075 .
+
+:Latin_B075 :valueLatin "put"^^xsd:string .
+:Arti_B075 :valueArti "putih"^^xsd:string .
+
+:Baris_B076 a :AksaraKawi ;
+    :aksaraValue "ꦏꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B076 ;
+    :hasArti :Arti_B076 .
+
+:Latin_B076 :valueLatin "kana"^^xsd:string .
+:Arti_B076 :valueArti "karena"^^xsd:string .
+
+:Baris_B077 a :AksaraKawi ;
+    :aksaraValue "ꦥꦼꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B077 ;
+    :hasArti :Arti_B077 .
+
+:Latin_B077 :valueLatin "pena"^^xsd:string .
+:Arti_B077 :valueArti "pena"^^xsd:string .
+
+:Baris_B078 a :AksaraKawi ;
+    :aksaraValue "ꦢꦺꦴꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B078 ;
+    :hasArti :Arti_B078 .
+
+:Latin_B078 :valueLatin "doka"^^xsd:string .
+:Arti_B078 :valueArti "perintah"^^xsd:string .
+
+:Baris_B079 a :AksaraKawi ;
+    :aksaraValue "ꦱꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B079 ;
+    :hasArti :Arti_B079 .
+
+:Latin_B079 :valueLatin "sung"^^xsd:string .
+:Arti_B079 :valueArti "air"^^xsd:string .
+
+:Baris_B080 a :AksaraKawi ;
+    :aksaraValue "ꦗꦼꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B080 ;
+    :hasArti :Arti_B080 .
+
+:Latin_B080 :valueLatin "jena"^^xsd:string .
+:Arti_B080 :valueArti "menjadi"^^xsd:string .
+
+:Baris_B081 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦠꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B081 ;
+    :hasArti :Arti_B081 .
+
+:Latin_B081 :valueLatin "iti"^^xsd:string .
+:Arti_B081 :valueArti "itu"^^xsd:string .
+
+:Baris_B082 a :AksaraKawi ;
+    :aksaraValue "ꦩꦺꦴꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B082 ;
+    :hasArti :Arti_B082 .
+
+:Latin_B082 :valueLatin "méla"^^xsd:string .
+:Arti_B082 :valueArti "kesalahan"^^xsd:string .
+
+:Baris_B083 a :AksaraKawi ;
+    :aksaraValue "ꦒꦸꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B083 ;
+    :hasArti :Arti_B083 .
+
+:Latin_B083 :valueLatin "gutha"^^xsd:string .
+:Arti_B083 :valueArti "gelap"^^xsd:string .
+
+:Baris_B084 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦠꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B084 ;
+    :hasArti :Arti_B084 .
+
+:Latin_B084 :valueLatin "bita"^^xsd:string .
+:Arti_B084 :valueArti "berita"^^xsd:string .
+
+:Baris_B085 a :AksaraKawi ;
+    :aksaraValue "ꦭꦤ꧀ꦢ"^^xsd:string ;
+    :hasTransliterasi :Latin_B085 ;
+    :hasArti :Arti_B085 .
+
+:Latin_B085 :valueLatin "landa"^^xsd:string .
+:Arti_B085 :valueArti "tanah"^^xsd:string .
+
+:Baris_B086 a :AksaraKawi ;
+    :aksaraValue "ꦥꦁꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B086 ;
+    :hasArti :Arti_B086 .
+
+:Latin_B086 :valueLatin "pangsa"^^xsd:string .
+:Arti_B086 :valueArti "bagian"^^xsd:string .
+
+:Baris_B087 a :AksaraKawi ;
+    :aksaraValue "ꦢꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B087 ;
+    :hasArti :Arti_B087 .
+
+:Latin_B087 :valueLatin "daka"^^xsd:string .
+:Arti_B087 :valueArti "mengambil"^^xsd:string .
+
+:Baris_B088 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦢ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B088 ;
+    :hasArti :Arti_B088 .
+
+:Latin_B088 :valueLatin "kid"^^xsd:string .
+:Arti_B088 :valueArti "anak"^^xsd:string .
+
+:Baris_B089 a :AksaraKawi ;
+    :aksaraValue "ꦩꦺꦴꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B089 ;
+    :hasArti :Arti_B089 .
+
+:Latin_B089 :valueLatin "méra"^^xsd:string .
+:Arti_B089 :valueArti "merah"^^xsd:string .
+
+:Baris_B090 a :AksaraKawi ;
+    :aksaraValue "ꦏꦼꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B090 ;
+    :hasArti :Arti_B090 .
+
+:Latin_B090 :valueLatin "kena"^^xsd:string .
+:Arti_B090 :valueArti "kena"^^xsd:string .
+
+:Baris_B091 a :AksaraKawi ;
+    :aksaraValue "ꦭꦺꦴꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B091 ;
+    :hasArti :Arti_B091 .
+
+:Latin_B091 :valueLatin "lola"^^xsd:string .
+:Arti_B091 :valueArti "goyang"^^xsd:string .
+
+:Baris_B092 a :AksaraKawi ;
+    :aksaraValue "ꦧꦼꦩ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B092 ;
+    :hasArti :Arti_B092 .
+
+:Latin_B092 :valueLatin "bêm"^^xsd:string .
+:Arti_B092 :valueArti "diam"^^xsd:string .
+
+:Baris_B093 a :AksaraKawi ;
+    :aksaraValue "ꦮꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B093 ;
+    :hasArti :Arti_B093 .
+
+:Latin_B093 :valueLatin "wéna"^^xsd:string .
+:Arti_B093 :valueArti "baik"^^xsd:string .
+
+:Baris_B094 a :AksaraKawi ;
+    :aksaraValue "ꦥꦼꦫꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B094 ;
+    :hasArti :Arti_B094 .
+
+:Latin_B094 :valueLatin "peru"^^xsd:string .
+:Arti_B094 :valueArti "butuh"^^xsd:string .
+
+:Baris_B095 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦭ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B095 ;
+    :hasArti :Arti_B095 .
+
+:Latin_B095 :valueLatin "hil"^^xsd:string .
+:Arti_B095 :valueArti "hilang"^^xsd:string .
+
+:Baris_B096 a :AksaraKawi ;
+    :aksaraValue "ꦕꦺꦴꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B096 ;
+    :hasArti :Arti_B096 .
+
+:Latin_B096 :valueLatin "cosa"^^xsd:string .
+:Arti_B096 :valueArti "hal"^^xsd:string .
+
+:Baris_B097 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦩ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B097 ;
+    :hasArti :Arti_B097 .
+
+:Latin_B097 :valueLatin "sima"^^xsd:string .
+:Arti_B097 :valueArti "hukum"^^xsd:string .
+
+:Baris_B098 a :AksaraKawi ;
+    :aksaraValue "ꦢꦺꦴꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B098 ;
+    :hasArti :Arti_B098 .
+
+:Latin_B098 :valueLatin "dora"^^xsd:string .
+:Arti_B098 :valueArti "bohong"^^xsd:string .
+
+:Baris_B099 a :AksaraKawi ;
+    :aksaraValue "ꦏꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B099 ;
+    :hasArti :Arti_B099 .
+
+:Latin_B099 :valueLatin "kona"^^xsd:string .
+:Arti_B099 :valueArti "tempat"^^xsd:string .
+
+:Baris_B100 a :AksaraKawi ;
+    :aksaraValue "ꦭꦶꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B100 ;
+    :hasArti :Arti_B100 .
+
+:Latin_B100 :valueLatin "lira"^^xsd:string .
+:Arti_B100 :valueArti "kamu (halus)"^^xsd:string .
+
+:Baris_B101 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B101 ;
+    :hasArti :Arti_B101 .
+
+:Latin_B101 :valueLatin "bila"^^xsd:string .
+:Arti_B101 :valueArti "jika"^^xsd:string .
+
+:Baris_B102 a :AksaraKawi ;
+    :aksaraValue "ꦥꦼꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B102 ;
+    :hasArti :Arti_B102 .
+
+:Latin_B102 :valueLatin "pera"^^xsd:string .
+:Arti_B102 :valueArti "pisah"^^xsd:string .
+
+:Baris_B103 a :AksaraKawi ;
+    :aksaraValue "ꦏꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B103 ;
+    :hasArti :Arti_B103 .
+
+:Latin_B103 :valueLatin "kung"^^xsd:string .
+:Arti_B103 :valueArti "burung"^^xsd:string .
+
+:Baris_B104 a :AksaraKawi ;
+    :aksaraValue "ꦒꦼꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B104 ;
+    :hasArti :Arti_B104 .
+
+:Latin_B104 :valueLatin "gên"^^xsd:string .
+:Arti_B104 :valueArti "berikan"^^xsd:string .
+
+:Baris_B105 a :AksaraKawi ;
+    :aksaraValue "ꦮꦼꦔꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B105 ;
+    :hasArti :Arti_B105 .
+
+:Latin_B105 :valueLatin "wêngi"^^xsd:string .
+:Arti_B105 :valueArti "malam"^^xsd:string .
+
+:Baris_B106 a :AksaraKawi ;
+    :aksaraValue "ꦭꦼꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B106 ;
+    :hasArti :Arti_B106 .
+
+:Latin_B106 :valueLatin "lêng"^^xsd:string .
+:Arti_B106 :valueArti "jauh"^^xsd:string .
+
+:Baris_B107 a :AksaraKawi ;
+    :aksaraValue "ꦧꦼꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B107 ;
+    :hasArti :Arti_B107 .
+
+:Latin_B107 :valueLatin "bên"^^xsd:string .
+:Arti_B107 :valueArti "bangun"^^xsd:string .
+
+:Baris_B108 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦤꦺꦴ"^^xsd:string ;
+    :hasTransliterasi :Latin_B108 ;
+    :hasArti :Arti_B108 .
+
+:Latin_B108 :valueLatin "hiné"^^xsd:string .
+:Arti_B108 :valueArti "rendah"^^xsd:string .
+
+:Baris_B109 a :AksaraKawi ;
+    :aksaraValue "ꦭꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B109 ;
+    :hasArti :Arti_B109 .
+
+:Latin_B109 :valueLatin "lona"^^xsd:string .
+:Arti_B109 :valueArti "lubang"^^xsd:string .
+
+:Baris_B110 a :AksaraKawi ;
+    :aksaraValue "ꦥꦶꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B110 ;
+    :hasArti :Arti_B110 .
+
+:Latin_B110 :valueLatin "pita"^^xsd:string .
+:Arti_B110 :valueArti "pengetahuan"^^xsd:string .
+
+:Baris_B111 a :AksaraKawi ;
+    :aksaraValue "ꦱꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B111 ;
+    :hasArti :Arti_B111 .
+
+:Latin_B111 :valueLatin "sona"^^xsd:string .
+:Arti_B111 :valueArti "seni"^^xsd:string .
+
+:Baris_B112 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦪ"^^xsd:string ;
+    :hasTransliterasi :Latin_B112 ;
+    :hasArti :Arti_B112 .
+
+:Latin_B112 :valueLatin "biya"^^xsd:string .
+:Arti_B112 :valueArti "bagaimana"^^xsd:string .
+
+:Baris_B113 a :AksaraKawi ;
+    :aksaraValue "ꦏꦿꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B113 ;
+    :hasArti :Arti_B113 .
+
+:Latin_B113 :valueLatin "kri"^^xsd:string .
+:Arti_B113 :valueArti "buat"^^xsd:string .
+
+:Baris_B114 a :AksaraKawi ;
+    :aksaraValue "ꦩꦺꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B114 ;
+    :hasArti :Arti_B114 .
+
+:Latin_B114 :valueLatin "mén"^^xsd:string .
+:Arti_B114 :valueArti "perempuan"^^xsd:string .
+
+:Baris_B115 a :AksaraKawi ;
+    :aksaraValue "ꦲꦤ꧀ꦢ"^^xsd:string ;
+    :hasTransliterasi :Latin_B115 ;
+    :hasArti :Arti_B115 .
+
+:Latin_B115 :valueLatin "handa"^^xsd:string .
+:Arti_B115 :valueArti "siap"^^xsd:string .
+
+:Baris_B116 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B116 ;
+    :hasArti :Arti_B116 .
+
+:Latin_B116 :valueLatin "buna"^^xsd:string .
+:Arti_B116 :valueArti "racun"^^xsd:string .
+
+:Baris_B117 a :AksaraKawi ;
+    :aksaraValue "ꦗꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B117 ;
+    :hasArti :Arti_B117 .
+
+:Latin_B117 :valueLatin "jona"^^xsd:string .
+:Arti_B117 :valueArti "lembah"^^xsd:string .
+
+:Baris_B118 a :AksaraKawi ;
+    :aksaraValue "ꦠꦶꦪ"^^xsd:string ;
+    :hasTransliterasi :Latin_B118 ;
+    :hasArti :Arti_B118 .
+
+:Latin_B118 :valueLatin "tia"^^xsd:string .
+:Arti_B118 :valueArti "terbang"^^xsd:string .
+
+:Baris_B119 a :AksaraKawi ;
+    :aksaraValue "ꦒꦺꦪ"^^xsd:string ;
+    :hasTransliterasi :Latin_B119 ;
+    :hasArti :Arti_B119 .
+
+:Latin_B119 :valueLatin "gaya"^^xsd:string .
+:Arti_B119 :valueArti "bentuk"^^xsd:string .
+
+:Baris_B120 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦁꦒꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B120 ;
+    :hasArti :Arti_B120 .
+
+:Latin_B120 :valueLatin "hinggan"^^xsd:string .
+:Arti_B120 :valueArti "berhenti"^^xsd:string .
+
+:Baris_B121 a :AksaraKawi ;
+    :aksaraValue "ꦮꦺꦴꦒ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B121 ;
+    :hasArti :Arti_B121 .
+
+:Latin_B121 :valueLatin "wog"^^xsd:string .
+:Arti_B121 :valueArti "laut"^^xsd:string .
+
+:Baris_B122 a :AksaraKawi ;
+    :aksaraValue "ꦭꦺꦴꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B122 ;
+    :hasArti :Arti_B122 .
+
+:Latin_B122 :valueLatin "loma"^^xsd:string .
+:Arti_B122 :valueArti "lembut"^^xsd:string .
+
+:Baris_B123 a :AksaraKawi ;
+    :aksaraValue "ꦕꦺꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B123 ;
+    :hasArti :Arti_B123 .
+
+:Latin_B123 :valueLatin "cewa"^^xsd:string .
+:Arti_B123 :valueArti "kecewa"^^xsd:string .
+
+:Baris_B124 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦒꦼ"^^xsd:string ;
+    :hasTransliterasi :Latin_B124 ;
+    :hasArti :Arti_B124 .
+
+:Latin_B124 :valueLatin "kingê"^^xsd:string .
+:Arti_B124 :valueArti "raja"^^xsd:string .
+
+:Baris_B125 a :AksaraKawi ;
+    :aksaraValue "ꦒꦶꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B125 ;
+    :hasArti :Arti_B125 .
+
+:Latin_B125 :valueLatin "ging"^^xsd:string .
+:Arti_B125 :valueArti "jalan"^^xsd:string .
+
+:Baris_B126 a :AksaraKawi ;
+    :aksaraValue "ꦩꦸꦭ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B126 ;
+    :hasArti :Arti_B126 .
+
+:Latin_B126 :valueLatin "múl"^^xsd:string .
+:Arti_B126 :valueArti "akar"^^xsd:string .
+
+:Baris_B127 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦗ"^^xsd:string ;
+    :hasTransliterasi :Latin_B127 ;
+    :hasArti :Arti_B127 .
+
+:Latin_B127 :valueLatin "hija"^^xsd:string .
+:Arti_B127 :valueArti "hijau"^^xsd:string .
+
+:Baris_B128 a :AksaraKawi ;
+    :aksaraValue "ꦥꦶꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B128 ;
+    :hasArti :Arti_B128 .
+
+:Latin_B128 :valueLatin "pina"^^xsd:string .
+:Arti_B128 :valueArti "pergi"^^xsd:string .
+
+:Baris_B129 a :AksaraKawi ;
+    :aksaraValue "ꦮꦶꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B129 ;
+    :hasArti :Arti_B129 .
+
+:Latin_B129 :valueLatin "wina"^^xsd:string .
+:Arti_B129 :valueArti "ilmu"^^xsd:string .
+
+:Baris_B130 a :AksaraKawi ;
+    :aksaraValue "ꦢꦺꦴꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B130 ;
+    :hasArti :Arti_B130 .
+
+:Latin_B130 :valueLatin "dowa"^^xsd:string .
+:Arti_B130 :valueArti "dua"^^xsd:string .
+
+:Baris_B131 a :AksaraKawi ;
+    :aksaraValue "ꦏꦺꦴꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B131 ;
+    :hasArti :Arti_B131 .
+
+:Latin_B131 :valueLatin "kotha"^^xsd:string .
+:Arti_B131 :valueArti "kota"^^xsd:string .
+
+:Baris_B132 a :AksaraKawi ;
+    :aksaraValue "ꦱꦺꦴꦧ"^^xsd:string ;
+    :hasTransliterasi :Latin_B132 ;
+    :hasArti :Arti_B132 .
+
+:Latin_B132 :valueLatin "soba"^^xsd:string .
+:Arti_B132 :valueArti "sopan"^^xsd:string .
+
+:Baris_B133 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B133 ;
+    :hasArti :Arti_B133 .
+
+:Latin_B133 :valueLatin "bina"^^xsd:string .
+:Arti_B133 :valueArti "ajar"^^xsd:string .
+
+:Baris_B134 a :AksaraKawi ;
+    :aksaraValue "ꦩꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B134 ;
+    :hasArti :Arti_B134 .
+
+:Latin_B134 :valueLatin "mung"^^xsd:string .
+:Arti_B134 :valueArti "mungkin"^^xsd:string .
+
+:Baris_B135 a :AksaraKawi ;
+    :aksaraValue "ꦥꦶꦠꦶ"^^xsd:string ;
+    :hasTransliterasi :Latin_B135 ;
+    :hasArti :Arti_B135 .
+
+:Latin_B135 :valueLatin "piti"^^xsd:string .
+:Arti_B135 :valueArti "uang"^^xsd:string .
+
+:Baris_B136 a :AksaraKawi ;
+    :aksaraValue "ꦒꦼꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B136 ;
+    :hasArti :Arti_B136 .
+
+:Latin_B136 :valueLatin "gêng"^^xsd:string .
+:Arti_B136 :valueArti "tengah"^^xsd:string .
+
+:Baris_B137 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦠꦼ"^^xsd:string ;
+    :hasTransliterasi :Latin_B137 ;
+    :hasArti :Arti_B137 .
+
+:Latin_B137 :valueLatin "hite"^^xsd:string .
+:Arti_B137 :valueArti "putih"^^xsd:string .
+
+:Baris_B138 a :AksaraKawi ;
+    :aksaraValue "ꦤꦶꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B138 ;
+    :hasArti :Arti_B138 .
+
+:Latin_B138 :valueLatin "nina"^^xsd:string .
+:Arti_B138 :valueArti "mimpi"^^xsd:string .
+
+:Baris_B139 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B139 ;
+    :hasArti :Arti_B139 .
+
+:Latin_B139 :valueLatin "sina"^^xsd:string .
+:Arti_B139 :valueArti "terang"^^xsd:string .
+
+:Baris_B140 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦕ"^^xsd:string ;
+    :hasTransliterasi :Latin_B140 ;
+    :hasArti :Arti_B140 .
+
+:Latin_B140 :valueLatin "bica"^^xsd:string .
+:Arti_B140 :valueArti "bicara"^^xsd:string .
+
+:Baris_B141 a :AksaraKawi ;
+    :aksaraValue "ꦏꦸꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B141 ;
+    :hasArti :Arti_B141 .
+
+:Latin_B141 :valueLatin "kutha"^^xsd:string .
+:Arti_B141 :valueArti "kota"^^xsd:string .
+
+:Baris_B142 a :AksaraKawi ;
+    :aksaraValue "ꦥꦼꦔ"^^xsd:string ;
+    :hasTransliterasi :Latin_B142 ;
+    :hasArti :Arti_B142 .
+
+:Latin_B142 :valueLatin "peng"^^xsd:string .
+:Arti_B142 :valueArti "dengar"^^xsd:string .
+
+:Baris_B143 a :AksaraKawi ;
+    :aksaraValue "ꦗꦼꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B143 ;
+    :hasArti :Arti_B143 .
+
+:Latin_B143 :valueLatin "jema"^^xsd:string .
+:Arti_B143 :valueArti "orang"^^xsd:string .
+
+:Baris_B144 a :AksaraKawi ;
+    :aksaraValue "ꦠꦶꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B144 ;
+    :hasArti :Arti_B144 .
+
+:Latin_B144 :valueLatin "tisa"^^xsd:string .
+:Arti_B144 :valueArti "sembilan"^^xsd:string .
+
+:Baris_B145 a :AksaraKawi ;
+    :aksaraValue "ꦭꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B145 ;
+    :hasArti :Arti_B145 .
+
+:Latin_B145 :valueLatin "luna"^^xsd:string .
+:Arti_B145 :valueArti "lunak"^^xsd:string .
+
+:Baris_B146 a :AksaraKawi ;
+    :aksaraValue "ꦧꦺꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B146 ;
+    :hasArti :Arti_B146 .
+
+:Latin_B146 :valueLatin "bêtha"^^xsd:string .
+:Arti_B146 :valueArti "senang"^^xsd:string .
+
+:Baris_B147 a :AksaraKawi ;
+    :aksaraValue "ꦩꦺꦤꦺ"^^xsd:string ;
+    :hasTransliterasi :Latin_B147 ;
+    :hasArti :Arti_B147 .
+
+:Latin_B147 :valueLatin "mênê"^^xsd:string .
+:Arti_B147 :valueArti "beri"^^xsd:string .
+
+:Baris_B148 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦢꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B148 ;
+    :hasArti :Arti_B148 .
+
+:Latin_B148 :valueLatin "hidu"^^xsd:string .
+:Arti_B148 :valueArti "hidup"^^xsd:string .
+
+:Baris_B149 a :AksaraKawi ;
+    :aksaraValue "ꦤꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B149 ;
+    :hasArti :Arti_B149 .
+
+:Latin_B149 :valueLatin "nung"^^xsd:string .
+:Arti_B149 :valueArti "tunggu"^^xsd:string .
+
+:Baris_B150 a :AksaraKawi ;
+    :aksaraValue "ꦮꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B150 ;
+    :hasArti :Arti_B150 .
+
+:Latin_B150 :valueLatin "wuna"^^xsd:string .
+:Arti_B150 :valueArti "hutan"^^xsd:string .
+
+:Baris_B151 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B151 ;
+    :hasArti :Arti_B151 .
+
+:Latin_B151 :valueLatin "buwà"^^xsd:string .
+:Arti_B151 :valueArti "buah"^^xsd:string .
+
+:Baris_B152 a :AksaraKawi ;
+    :aksaraValue "ꦗꦺꦴꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B152 ;
+    :hasArti :Arti_B152 .
+
+:Latin_B152 :valueLatin "joma"^^xsd:string .
+:Arti_B152 :valueArti "teman"^^xsd:string .
+
+:Baris_B153 a :AksaraKawi ;
+    :aksaraValue "ꦕꦸꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B153 ;
+    :hasArti :Arti_B153 .
+
+:Latin_B153 :valueLatin "cuta"^^xsd:string .
+:Arti_B153 :valueArti "cerita"^^xsd:string .
+
+:Baris_B154 a :AksaraKawi ;
+    :aksaraValue "ꦠꦺꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B154 ;
+    :hasArti :Arti_B154 .
+
+:Latin_B154 :valueLatin "tên"^^xsd:string .
+:Arti_B154 :valueArti "tenang"^^xsd:string .
+
+:Baris_B155 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B155 ;
+    :hasArti :Arti_B155 .
+
+:Latin_B155 :valueLatin "pena"^^xsd:string .
+:Arti_B155 :valueArti "pena"^^xsd:string .
+
+:Baris_B156 a :AksaraKawi ;
+    :aksaraValue "ꦤꦺꦴꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B156 ;
+    :hasArti :Arti_B156 .
+
+:Latin_B156 :valueLatin "noma"^^xsd:string .
+:Arti_B156 :valueArti "nama"^^xsd:string .
+
+:Baris_B157 a :AksaraKawi ;
+    :aksaraValue "ꦮꦶꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B157 ;
+    :hasArti :Arti_B157 .
+
+:Latin_B157 :valueLatin "wita"^^xsd:string .
+:Arti_B157 :valueArti "hadir"^^xsd:string .
+
+:Baris_B158 a :AksaraKawi ;
+    :aksaraValue "ꦕꦼꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B158 ;
+    :hasArti :Arti_B158 .
+
+:Latin_B158 :valueLatin "cena"^^xsd:string .
+:Arti_B158 :valueArti "cinta"^^xsd:string .
+
+:Baris_B159 a :AksaraKawi ;
+    :aksaraValue "ꦥꦶꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B159 ;
+    :hasArti :Arti_B159 .
+
+:Latin_B159 :valueLatin "pisa"^^xsd:string .
+:Arti_B159 :valueArti "pisau"^^xsd:string .
+
+:Baris_B160 a :AksaraKawi ;
+    :aksaraValue "ꦧꦼꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B160 ;
+    :hasArti :Arti_B160 .
+
+:Latin_B160 :valueLatin "bétha"^^xsd:string .
+:Arti_B160 :valueArti "pasti"^^xsd:string .
+
+:Baris_B161 a :AksaraKawi ;
+    :aksaraValue "ꦩꦼꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B161 ;
+    :hasArti :Arti_B161 .
+
+:Latin_B161 :valueLatin "mêng"^^xsd:string .
+:Arti_B161 :valueArti "mengerti"^^xsd:string .
+
+:Baris_B162 a :AksaraKawi ;
+    :aksaraValue "ꦤꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B162 ;
+    :hasArti :Arti_B162 .
+
+:Latin_B162 :valueLatin "nung"^^xsd:string .
+:Arti_B162 :valueArti "menunggu"^^xsd:string .
+
+:Baris_B163 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B163 ;
+    :hasArti :Arti_B163 .
+
+:Latin_B163 :valueLatin "éra"^^xsd:string .
+:Arti_B163 :valueArti "malu"^^xsd:string .
+
+:Baris_B164 a :AksaraKawi ;
+    :aksaraValue "ꦏꦿꦺ"^^xsd:string ;
+    :hasTransliterasi :Latin_B164 ;
+    :hasArti :Arti_B164 .
+
+:Latin_B164 :valueLatin "kré"^^xsd:string .
+:Arti_B164 :valueArti "kritik"^^xsd:string .
+
+:Baris_B165 a :AksaraKawi ;
+    :aksaraValue "ꦗꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B165 ;
+    :hasArti :Arti_B165 .
+
+:Latin_B165 :valueLatin "jona"^^xsd:string .
+:Arti_B165 :valueArti "zona"^^xsd:string .
+
+:Baris_B166 a :AksaraKawi ;
+    :aksaraValue "ꦠꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B166 ;
+    :hasArti :Arti_B166 .
+
+:Latin_B166 :valueLatin "tuna"^^xsd:string .
+:Arti_B166 :valueArti "rusak"^^xsd:string .
+
+:Baris_B167 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B167 ;
+    :hasArti :Arti_B167 .
+
+:Latin_B167 :valueLatin "butha"^^xsd:string .
+:Arti_B167 :valueArti "makhluk"^^xsd:string .
+
+:Baris_B168 a :AksaraKawi ;
+    :aksaraValue "ꦏꦺꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B168 ;
+    :hasArti :Arti_B168 .
+
+:Latin_B168 :valueLatin "kena"^^xsd:string .
+:Arti_B168 :valueArti "terkena"^^xsd:string .
+
+:Baris_B169 a :AksaraKawi ;
+    :aksaraValue "ꦩꦸꦔꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B169 ;
+    :hasArti :Arti_B169 .
+
+:Latin_B169 :valueLatin "mungu"^^xsd:string .
+:Arti_B169 :valueArti "naik"^^xsd:string .
+
+:Baris_B170 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦪ"^^xsd:string ;
+    :hasTransliterasi :Latin_B170 ;
+    :hasArti :Arti_B170 .
+
+:Latin_B170 :valueLatin "biyà"^^xsd:string .
+:Arti_B170 :valueArti "biaya"^^xsd:string .
+
+:Baris_B171 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B171 ;
+    :hasArti :Arti_B171 .
+
+:Latin_B171 :valueLatin "sing"^^xsd:string .
+:Arti_B171 :valueArti "tidak"^^xsd:string .
+
+:Baris_B172 a :AksaraKawi ;
+    :aksaraValue "ꦢꦺꦴꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B172 ;
+    :hasArti :Arti_B172 .
+
+:Latin_B172 :valueLatin "doma"^^xsd:string .
+:Arti_B172 :valueArti "hewan"^^xsd:string .
+
+:Baris_B173 a :AksaraKawi ;
+    :aksaraValue "ꦒꦺꦴꦒ"^^xsd:string ;
+    :hasTransliterasi :Latin_B173 ;
+    :hasArti :Arti_B173 .
+
+:Latin_B173 :valueLatin "goga"^^xsd:string .
+:Arti_B173 :valueArti "keras"^^xsd:string .
+
+:Baris_B174 a :AksaraKawi ;
+    :aksaraValue "ꦗꦼꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B174 ;
+    :hasArti :Arti_B174 .
+
+:Latin_B174 :valueLatin "jên"^^xsd:string .
+:Arti_B174 :valueArti "senja"^^xsd:string .
+
+:Baris_B175 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦧ"^^xsd:string ;
+    :hasTransliterasi :Latin_B175 ;
+    :hasArti :Arti_B175 .
+
+:Latin_B175 :valueLatin "poba"^^xsd:string .
+:Arti_B175 :valueArti "rusak"^^xsd:string .
+
+:Baris_B176 a :AksaraKawi ;
+    :aksaraValue "ꦏꦼꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B176 ;
+    :hasArti :Arti_B176 .
+
+:Latin_B176 :valueLatin "kela"^^xsd:string .
+:Arti_B176 :valueArti "lewat"^^xsd:string .
+
+:Baris_B177 a :AksaraKawi ;
+    :aksaraValue "ꦠꦺꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B177 ;
+    :hasArti :Arti_B177 .
+
+:Latin_B177 :valueLatin "téka"^^xsd:string .
+:Arti_B177 :valueArti "datang"^^xsd:string .
+
+:Baris_B178 a :AksaraKawi ;
+    :aksaraValue "ꦱꦺꦏ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B178 ;
+    :hasArti :Arti_B178 .
+
+:Latin_B178 :valueLatin "sêk"^^xsd:string .
+:Arti_B178 :valueArti "tunggu"^^xsd:string .
+
+:Baris_B179 a :AksaraKawi ;
+    :aksaraValue "ꦭꦺꦴꦧ"^^xsd:string ;
+    :hasTransliterasi :Latin_B179 ;
+    :hasArti :Arti_B179 .
+
+:Latin_B179 :valueLatin "loba"^^xsd:string .
+:Arti_B179 :valueArti "banyak"^^xsd:string .
+
+:Baris_B180 a :AksaraKawi ;
+    :aksaraValue "ꦢꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B180 ;
+    :hasArti :Arti_B180 .
+
+:Latin_B180 :valueLatin "dung"^^xsd:string .
+:Arti_B180 :valueArti "dalam"^^xsd:string .
+
+:Baris_B181 a :AksaraKawi ;
+    :aksaraValue "ꦮꦼꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B181 ;
+    :hasArti :Arti_B181 .
+
+:Latin_B181 :valueLatin "wêng"^^xsd:string .
+:Arti_B181 :valueArti "keluar"^^xsd:string .
+
+:Baris_B182 a :AksaraKawi ;
+    :aksaraValue "ꦩꦼꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B182 ;
+    :hasArti :Arti_B182 .
+
+:Latin_B182 :valueLatin "mên"^^xsd:string .
+:Arti_B182 :valueArti "anak"^^xsd:string .
+
+:Baris_B183 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B183 ;
+    :hasArti :Arti_B183 .
+
+:Latin_B183 :valueLatin "péka"^^xsd:string .
+:Arti_B183 :valueArti "peka"^^xsd:string .
+
+:Baris_B184 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦔ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B184 ;
+    :hasArti :Arti_B184 .
+
+:Latin_B184 :valueLatin "búng"^^xsd:string .
+:Arti_B184 :valueArti "bangkit"^^xsd:string .
+
+:Baris_B185 a :AksaraKawi ;
+    :aksaraValue "ꦒꦸꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B185 ;
+    :hasArti :Arti_B185 .
+
+:Latin_B185 :valueLatin "gun"^^xsd:string .
+:Arti_B185 :valueArti "tahan"^^xsd:string .
+
+:Baris_B186 a :AksaraKawi ;
+    :aksaraValue "ꦏꦸꦠꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B186 ;
+    :hasArti :Arti_B186 .
+
+:Latin_B186 :valueLatin "kutu"^^xsd:string .
+:Arti_B186 :valueArti "serangga"^^xsd:string .
+
+:Baris_B187 a :AksaraKawi ;
+    :aksaraValue "ꦢꦺꦴꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B187 ;
+    :hasArti :Arti_B187 .
+
+:Latin_B187 :valueLatin "dowa"^^xsd:string .
+:Arti_B187 :valueArti "jumlah"^^xsd:string .
+
+:Baris_B188 a :AksaraKawi ;
+    :aksaraValue "ꦗꦶꦭ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B188 ;
+    :hasArti :Arti_B188 .
+
+:Latin_B188 :valueLatin "jil"^^xsd:string .
+:Arti_B188 :valueArti "segi"^^xsd:string .
+
+:Baris_B189 a :AksaraKawi ;
+    :aksaraValue "ꦏꦼꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B189 ;
+    :hasArti :Arti_B189 .
+
+:Latin_B189 :valueLatin "kêra"^^xsd:string .
+:Arti_B189 :valueArti "kera"^^xsd:string .
+
+:Baris_B190 a :AksaraKawi ;
+    :aksaraValue "ꦧꦺꦛ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B190 ;
+    :hasArti :Arti_B190 .
+
+:Latin_B190 :valueLatin "bêth"^^xsd:string .
+:Arti_B190 :valueArti "diri"^^xsd:string .
+
+:Baris_B191 a :AksaraKawi ;
+    :aksaraValue "ꦗꦺꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B191 ;
+    :hasArti :Arti_B191 .
+
+:Latin_B191 :valueLatin "jéta"^^xsd:string .
+:Arti_B191 :valueArti "jadi"^^xsd:string .
+
+:Baris_B192 a :AksaraKawi ;
+    :aksaraValue "ꦮꦼꦁꦒ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B192 ;
+    :hasArti :Arti_B192 .
+
+:Latin_B192 :valueLatin "wêngg"^^xsd:string .
+:Arti_B192 :valueArti "keluar"^^xsd:string .
+
+:Baris_B193 a :AksaraKawi ;
+    :aksaraValue "ꦭꦼꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B193 ;
+    :hasArti :Arti_B193 .
+
+:Latin_B193 :valueLatin "lêr"^^xsd:string .
+:Arti_B193 :valueArti "istirahat"^^xsd:string .
+
+:Baris_B194 a :AksaraKawi ;
+    :aksaraValue "ꦧꦺꦫ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B194 ;
+    :hasArti :Arti_B194 .
+
+:Latin_B194 :valueLatin "bêr"^^xsd:string .
+:Arti_B194 :valueArti "berani"^^xsd:string .
+
+:Baris_B195 a :AksaraKawi ;
+    :aksaraValue "ꦏꦺꦴꦠ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B195 ;
+    :hasArti :Arti_B195 .
+
+:Latin_B195 :valueLatin "koth"^^xsd:string .
+:Arti_B195 :valueArti "kotak"^^xsd:string .
+
+:Baris_B196 a :AksaraKawi ;
+    :aksaraValue "ꦮꦶꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B196 ;
+    :hasArti :Arti_B196 .
+
+:Latin_B196 :valueLatin "wila"^^xsd:string .
+:Arti_B196 :valueArti "giliran"^^xsd:string .
+
+:Baris_B197 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B197 ;
+    :hasArti :Arti_B197 .
+
+:Latin_B197 :valueLatin "pôn"^^xsd:string .
+:Arti_B197 :valueArti "penunjuk"^^xsd:string .
+
+:Baris_B198 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦔ꧀ꦒ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B198 ;
+    :hasArti :Arti_B198 .
+
+:Latin_B198 :valueLatin "búngg"^^xsd:string .
+:Arti_B198 :valueArti "melompat"^^xsd:string .
+
+:Baris_B199 a :AksaraKawi ;
+    :aksaraValue "ꦱꦸꦭ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B199 ;
+    :hasArti :Arti_B199 .
+
+:Latin_B199 :valueLatin "sul"^^xsd:string .
+:Arti_B199 :valueArti "sunyi"^^xsd:string .
+
+:Baris_B200 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦥ"^^xsd:string ;
+    :hasTransliterasi :Latin_B200 ;
+    :hasArti :Arti_B200 .
+
+:Latin_B200 :valueLatin "popa"^^xsd:string .
+:Arti_B200 :valueArti "gugur"^^xsd:string .
+
+:Baris_B201 a :AksaraKawi ;
+    :aksaraValue "ꦢꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B201 ;
+    :hasArti :Arti_B201 .
+
+:Latin_B201 :valueLatin "duna"^^xsd:string .
+:Arti_B201 :valueArti "dunia"^^xsd:string .
+
+:Baris_B202 a :AksaraKawi ;
+    :aksaraValue "ꦥꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B202 ;
+    :hasArti :Arti_B202 .
+
+:Latin_B202 :valueLatin "pung"^^xsd:string .
+:Arti_B202 :valueArti "ambil"^^xsd:string .
+
+:Baris_B203 a :AksaraKawi ;
+    :aksaraValue "ꦏꦼꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B203 ;
+    :hasArti :Arti_B203 .
+
+:Latin_B203 :valueLatin "kêta"^^xsd:string .
+:Arti_B203 :valueArti "pintar"^^xsd:string .
+
+:Baris_B204 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B204 ;
+    :hasArti :Arti_B204 .
+
+:Latin_B204 :valueLatin "busa"^^xsd:string .
+:Arti_B204 :valueArti "busa"^^xsd:string .
+
+:Baris_B205 a :AksaraKawi ;
+    :aksaraValue "ꦗꦸꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B205 ;
+    :hasArti :Arti_B205 .
+
+:Latin_B205 :valueLatin "juna"^^xsd:string .
+:Arti_B205 :valueArti "perang"^^xsd:string .
+
+:Baris_B206 a :AksaraKawi ;
+    :aksaraValue "ꦩꦸꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B206 ;
+    :hasArti :Arti_B206 .
+
+:Latin_B206 :valueLatin "mula"^^xsd:string .
+:Arti_B206 :valueArti "awal"^^xsd:string .
+
+:Baris_B207 a :AksaraKawi ;
+    :aksaraValue "ꦤꦸꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B207 ;
+    :hasArti :Arti_B207 .
+
+:Latin_B207 :valueLatin "nusa"^^xsd:string .
+:Arti_B207 :valueArti "pulau"^^xsd:string .
+
+:Baris_B208 a :AksaraKawi ;
+    :aksaraValue "ꦱꦼꦠ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B208 ;
+    :hasArti :Arti_B208 .
+
+:Latin_B208 :valueLatin "sêt"^^xsd:string .
+:Arti_B208 :valueArti "bersih"^^xsd:string .
+
+:Baris_B209 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦤ꧀ꦠꦺ"^^xsd:string ;
+    :hasTransliterasi :Latin_B209 ;
+    :hasArti :Arti_B209 .
+
+:Latin_B209 :valueLatin "hinté"^^xsd:string .
+:Arti_B209 :valueArti "pandangan"^^xsd:string .
+
+:Baris_B210 a :AksaraKawi ;
+    :aksaraValue "ꦧꦼꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B210 ;
+    :hasArti :Arti_B210 .
+
+:Latin_B210 :valueLatin "bêna"^^xsd:string .
+:Arti_B210 :valueArti "benar"^^xsd:string .
+
+:Baris_B211 a :AksaraKawi ;
+    :aksaraValue "ꦏꦸꦩ"^^xsd:string ;
+    :hasTransliterasi :Latin_B211 ;
+    :hasArti :Arti_B211 .
+
+:Latin_B211 :valueLatin "kuma"^^xsd:string .
+:Arti_B211 :valueArti "kenapa"^^xsd:string .
+
+:Baris_B212 a :AksaraKawi ;
+    :aksaraValue "ꦮꦺꦴꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B212 ;
+    :hasArti :Arti_B212 .
+
+:Latin_B212 :valueLatin "wota"^^xsd:string .
+:Arti_B212 :valueArti "air"^^xsd:string .
+
+:Baris_B213 a :AksaraKawi ;
+    :aksaraValue "ꦲꦸꦱ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B213 ;
+    :hasArti :Arti_B213 .
+
+:Latin_B213 :valueLatin "hus"^^xsd:string .
+:Arti_B213 :valueArti "diam"^^xsd:string .
+
+:Baris_B214 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B214 ;
+    :hasArti :Arti_B214 .
+
+:Latin_B214 :valueLatin "pola"^^xsd:string .
+:Arti_B214 :valueArti "pola"^^xsd:string .
+
+:Baris_B215 a :AksaraKawi ;
+    :aksaraValue "ꦢꦸꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B215 ;
+    :hasArti :Arti_B215 .
+
+:Latin_B215 :valueLatin "dun"^^xsd:string .
+:Arti_B215 :valueArti "gelap"^^xsd:string .
+
+:Baris_B216 a :AksaraKawi ;
+    :aksaraValue "ꦒꦺꦠ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B216 ;
+    :hasArti :Arti_B216 .
+
+:Latin_B216 :valueLatin "gêt"^^xsd:string .
+:Arti_B216 :valueArti "kuat"^^xsd:string .
+
+:Baris_B217 a :AksaraKawi ;
+    :aksaraValue "ꦮꦸꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B217 ;
+    :hasArti :Arti_B217 .
+
+:Latin_B217 :valueLatin "wung"^^xsd:string .
+:Arti_B217 :valueArti "terbang"^^xsd:string .
+
+:Baris_B218 a :AksaraKawi ;
+    :aksaraValue "ꦫꦸꦔ"^^xsd:string ;
+    :hasTransliterasi :Latin_B218 ;
+    :hasArti :Arti_B218 .
+
+:Latin_B218 :valueLatin "runga"^^xsd:string .
+:Arti_B218 :valueArti "dengar"^^xsd:string .
+
+:Baris_B219 a :AksaraKawi ;
+    :aksaraValue "ꦲꦸꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B219 ;
+    :hasArti :Arti_B219 .
+
+:Latin_B219 :valueLatin "hula"^^xsd:string .
+:Arti_B219 :valueArti "depan"^^xsd:string .
+
+:Baris_B220 a :AksaraKawi ;
+    :aksaraValue "ꦮꦺꦴꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B220 ;
+    :hasArti :Arti_B220 .
+
+:Latin_B220 :valueLatin "wôn"^^xsd:string .
+:Arti_B220 :valueArti "hutan"^^xsd:string .
+
+:Baris_B221 a :AksaraKawi ;
+    :aksaraValue "ꦢꦸꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B221 ;
+    :hasArti :Arti_B221 .
+
+:Latin_B221 :valueLatin "duta"^^xsd:string .
+:Arti_B221 :valueArti "utusan"^^xsd:string .
+
+:Baris_B222 a :AksaraKawi ;
+    :aksaraValue "ꦗꦺꦴꦫ"^^xsd:string ;
+    :hasTransliterasi :Latin_B222 ;
+    :hasArti :Arti_B222 .
+
+:Latin_B222 :valueLatin "jora"^^xsd:string .
+:Arti_B222 :valueArti "musuh"^^xsd:string .
+
+:Baris_B223 a :AksaraKawi ;
+    :aksaraValue "ꦩꦶꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B223 ;
+    :hasArti :Arti_B223 .
+
+:Latin_B223 :valueLatin "mina"^^xsd:string .
+:Arti_B223 :valueArti "ikan"^^xsd:string .
+
+:Baris_B224 a :AksaraKawi ;
+    :aksaraValue "ꦱꦺꦴꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B224 ;
+    :hasArti :Arti_B224 .
+
+:Latin_B224 :valueLatin "sora"^^xsd:string .
+:Arti_B224 :valueArti "suara"^^xsd:string .
+
+:Baris_B225 a :AksaraKawi ;
+    :aksaraValue "ꦏꦼꦫ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B225 ;
+    :hasArti :Arti_B225 .
+
+:Latin_B225 :valueLatin "kêr"^^xsd:string .
+:Arti_B225 :valueArti "keras"^^xsd:string .
+
+:Baris_B226 a :AksaraKawi ;
+    :aksaraValue "ꦥꦶꦒ"^^xsd:string ;
+    :hasTransliterasi :Latin_B226 ;
+    :hasArti :Arti_B226 .
+
+:Latin_B226 :valueLatin "piga"^^xsd:string .
+:Arti_B226 :valueArti "berapa"^^xsd:string .
+
+:Baris_B227 a :AksaraKawi ;
+    :aksaraValue "ꦲꦶꦢ"^^xsd:string ;
+    :hasTransliterasi :Latin_B227 ;
+    :hasArti :Arti_B227 .
+
+:Latin_B227 :valueLatin "hida"^^xsd:string .
+:Arti_B227 :valueArti "hidup"^^xsd:string .
+
+:Baris_B228 a :AksaraKawi ;
+    :aksaraValue "ꦧꦸꦛ"^^xsd:string ;
+    :hasTransliterasi :Latin_B228 ;
+    :hasArti :Arti_B228 .
+
+:Latin_B228 :valueLatin "butha"^^xsd:string .
+:Arti_B228 :valueArti "raksasa"^^xsd:string .
+
+:Baris_B229 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B229 ;
+    :hasArti :Arti_B229 .
+
+:Latin_B229 :valueLatin "éta"^^xsd:string .
+:Arti_B229 :valueArti "itu"^^xsd:string .
+
+:Baris_B230 a :AksaraKawi ;
+    :aksaraValue "ꦮꦺꦴꦠꦺꦴ"^^xsd:string ;
+    :hasTransliterasi :Latin_B230 ;
+    :hasArti :Arti_B230 .
+
+:Latin_B230 :valueLatin "wété"^^xsd:string .
+:Arti_B230 :valueArti "basah"^^xsd:string .
+
+:Baris_B231 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦧ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B231 ;
+    :hasArti :Arti_B231 .
+
+:Latin_B231 :valueLatin "êb"^^xsd:string .
+:Arti_B231 :valueArti "penolakan"^^xsd:string .
+
+:Baris_B232 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦤꦺ"^^xsd:string ;
+    :hasTransliterasi :Latin_B232 ;
+    :hasArti :Arti_B232 .
+
+:Latin_B232 :valueLatin "kiné"^^xsd:string .
+:Arti_B232 :valueArti "pernah"^^xsd:string .
+
+:Baris_B233 a :AksaraKawi ;
+    :aksaraValue "ꦲꦺꦴꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B233 ;
+    :hasArti :Arti_B233 .
+
+:Latin_B233 :valueLatin "ên"^^xsd:string .
+:Arti_B233 :valueArti "di"^^xsd:string .
+
+:Baris_B234 a :AksaraKawi ;
+    :aksaraValue "ꦮꦺꦴꦠ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B234 ;
+    :hasArti :Arti_B234 .
+
+:Latin_B234 :valueLatin "wot"^^xsd:string .
+:Arti_B234 :valueArti "jalan"^^xsd:string .
+
+:Baris_B235 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦭ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B235 ;
+    :hasArti :Arti_B235 .
+
+:Latin_B235 :valueLatin "sil"^^xsd:string .
+:Arti_B235 :valueArti "tutup"^^xsd:string .
+
+:Baris_B236 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦮ"^^xsd:string ;
+    :hasTransliterasi :Latin_B236 ;
+    :hasArti :Arti_B236 .
+
+:Latin_B236 :valueLatin "powo"^^xsd:string .
+:Arti_B236 :valueArti "hewan"^^xsd:string .
+
+:Baris_B237 a :AksaraKawi ;
+    :aksaraValue "ꦧꦼꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B237 ;
+    :hasArti :Arti_B237 .
+
+:Latin_B237 :valueLatin "bêng"^^xsd:string .
+:Arti_B237 :valueArti "barat"^^xsd:string .
+
+:Baris_B238 a :AksaraKawi ;
+    :aksaraValue "ꦱꦶꦠ"^^xsd:string ;
+    :hasTransliterasi :Latin_B238 ;
+    :hasArti :Arti_B238 .
+
+:Latin_B238 :valueLatin "site"^^xsd:string .
+:Arti_B238 :valueArti "tetap"^^xsd:string .
+
+:Baris_B239 a :AksaraKawi ;
+    :aksaraValue "ꦤꦸꦁꦒ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B239 ;
+    :hasArti :Arti_B239 .
+
+:Latin_B239 :valueLatin "nungg"^^xsd:string .
+:Arti_B239 :valueArti "menanti"^^xsd:string .
+
+:Baris_B240 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦠꦸ"^^xsd:string ;
+    :hasTransliterasi :Latin_B240 ;
+    :hasArti :Arti_B240 .
+
+:Latin_B240 :valueLatin "kitu"^^xsd:string .
+:Arti_B240 :valueArti "kita"^^xsd:string .
+
+:Baris_B241 a :AksaraKawi ;
+    :aksaraValue "ꦗꦼꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B241 ;
+    :hasArti :Arti_B241 .
+
+:Latin_B241 :valueLatin "jêng"^^xsd:string .
+:Arti_B241 :valueArti "naik"^^xsd:string .
+
+:Baris_B242 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦁ"^^xsd:string ;
+    :hasTransliterasi :Latin_B242 ;
+    :hasArti :Arti_B242 .
+
+:Latin_B242 :valueLatin "kêng"^^xsd:string .
+:Arti_B242 :valueArti "keinginan"^^xsd:string .
+
+:Baris_B243 a :AksaraKawi ;
+    :aksaraValue "ꦢꦶꦭ"^^xsd:string ;
+    :hasTransliterasi :Latin_B243 ;
+    :hasArti :Arti_B243 .
+
+:Latin_B243 :valueLatin "dila"^^xsd:string .
+:Arti_B243 :valueArti "lidah"^^xsd:string .
+
+:Baris_B244 a :AksaraKawi ;
+    :aksaraValue "ꦧꦺꦴꦤ"^^xsd:string ;
+    :hasTransliterasi :Latin_B244 ;
+    :hasArti :Arti_B244 .
+
+:Latin_B244 :valueLatin "bôna"^^xsd:string .
+:Arti_B244 :valueArti "besar"^^xsd:string .
+
+:Baris_B245 a :AksaraKawi ;
+    :aksaraValue "ꦥꦺꦴꦱ"^^xsd:string ;
+    :hasTransliterasi :Latin_B245 ;
+    :hasArti :Arti_B245 .
+
+:Latin_B245 :valueLatin "posa"^^xsd:string .
+:Arti_B245 :valueArti "puasa"^^xsd:string .
+
+:Baris_B246 a :AksaraKawi ;
+    :aksaraValue "ꦗꦸꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B246 ;
+    :hasArti :Arti_B246 .
+
+:Latin_B246 :valueLatin "jun"^^xsd:string .
+:Arti_B246 :valueArti "turun"^^xsd:string .
+
+:Baris_B247 a :AksaraKawi ;
+    :aksaraValue "ꦏꦼꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B247 ;
+    :hasArti :Arti_B247 .
+
+:Latin_B247 :valueLatin "kên"^^xsd:string .
+:Arti_B247 :valueArti "tahu"^^xsd:string .
+
+:Baris_B248 a :AksaraKawi ;
+    :aksaraValue "ꦩꦸꦤ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B248 ;
+    :hasArti :Arti_B248 .
+
+:Latin_B248 :valueLatin "mung"^^xsd:string .
+:Arti_B248 :valueArti "bermula"^^xsd:string .
+
+:Baris_B249 a :AksaraKawi ;
+    :aksaraValue "ꦏꦶꦠ꧀"^^xsd:string ;
+    :hasTransliterasi :Latin_B249 ;
+    :hasArti :Arti_B249 .
+
+:Latin_B249 :valueLatin "kit"^^xsd:string .
+:Arti_B249 :valueArti "ikut"^^xsd:string .
+
+:Baris_B250 a :AksaraKawi ;
+    :aksaraValue "ꦧꦶꦏ"^^xsd:string ;
+    :hasTransliterasi :Latin_B250 ;
+    :hasArti :Arti_B250 .
+
+:Latin_B250 :valueLatin "bika"^^xsd:string .
+:Arti_B250 :valueArti "bijak"^^xsd:string .
